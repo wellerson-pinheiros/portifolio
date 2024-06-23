@@ -25,14 +25,14 @@ img{
 h1{
     font-family: 'rubik';
 }
-.btn btn-primary{
-    padding: 40px;
-}
+
 
 #redes-sociais{
-    padding-top: 40px;
+    padding: 20px;
 }
-
+.btn{
+    padding: 20px;
+}
 
 #sobre{
 margin: auto;
@@ -52,7 +52,7 @@ h2{
 
 a{
 cursor: pointer;
-
+padding: 3px;
 }
 #softskils{
 width: 650px;
@@ -67,6 +67,7 @@ margin-top: 50px;
     
     
     width: 100px;
-    padding top:50px ;
+
+    padding-top:50px;
 }
 
