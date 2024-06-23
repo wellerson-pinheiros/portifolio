@@ -1,34 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
 body{
-    background-color: rgba(20, 16, 16, 0.836);
-    color:white;
-    font-size:25px ;
+*padding: 0;
+font-style: none;
+margin: 0;
 }
-a{
-    color: #ffffff;
-    font-size: 30px;
-    font-family: arial;
-    text-decoration: none;
-}
-header{
-    display: flex;
-    justify-content: space-between;
-    
-    padding: 20px;
-    width: 96%;
-    justify-content: center;
-    
-}
-div{
-    padding: 10px;
-    background-color: rgba(22, 21, 21, 0.356);
 
-   
+.apresentacao{
+padding: 30px;
+margin: auto;
+width: 650px;
+height: 250px;
+background-color: rgba(37, 32, 32, 0.582);
+justify-content: space-between;
+display: flex;
+margin-top: 100px;
 }
 
 img{
-    border-radius: 20px;
-   
+    border-radius: 50%;
+    width: 80%;
+    
+}
+
+h1{
+    font-family: 'rubik';
+}
+.btn btn-primary{
+    padding: 40px;
+}
+
+#redes-sociais{
+    padding-top: 40px;
 }
 
 
+#sobre{
+margin: auto;
+width: 650px;
+height: 250px;
+background-color: rgba(37, 32, 32, 0.582);
+margin-top: 50px;
+align-items: center;
+justify-content: center;
+text-align: center;
+display: flex;
+}
+
+h2{
+    font-family: 'rubik';
+}
+
+a{
+cursor: pointer;
+
+}
+#softskils{
+width: 650px;
+height: 250px;
+text-align: center;
+background-color: rgba(37, 32, 32, 0.582);
+padding: 50px;
+margin: auto;
+margin-top: 50px;
+}
+.kil{
+    
+    
+    width: 100px;
+    padding top:50px ;
+}
 
