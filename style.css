@@ -71,3 +71,16 @@ margin-top: 50px;
     padding-top:50px;
 }
 
+#pj {
+ width: 650px;
+ height: 250px;
+ text-align: center;
+ background-color: rgba(37, 32, 32, 0.582);
+justify-content: center;
+padding-top: 50px;
+margin: auto;
+margin-top: 100px;
+}
+.listas {
+    text-align: left;
+}
